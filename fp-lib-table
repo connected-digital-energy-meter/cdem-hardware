@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "cdem")(type "KiCad")(uri "${KIPRJMOD}/cdem.pretty")(options "")(descr ""))
+)
