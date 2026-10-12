@@ -14,7 +14,15 @@ reciprocal) and CERN-OHL-S (strongly reciprocal).
 The CERN-OHL-P is copyright CERN 2020. Anyone is welcome to use it, in
 unmodified form only.
 
-Use of this Licence does not imply any endorsement by CERN oMIT
+Use of this Licence does not imply any endorsement by CERN of any
+Licensor or their designs nor does it imply any involvement by CERN in
+their development.
+
+
+1 Definitions
+
+  1.1 'Licence' means this CERN-OHL-P.
+
   1.2 'Source' means information such as design materials or digital
       code which can be applied to Make or test a Product or to
       prepare a Product for use, Conveyance or sale, regardless of its
